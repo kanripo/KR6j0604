@@ -1,0 +1,5 @@
+001-0889c11	TKD 40-0572a	buddhist/K-koreana/40-tif/0500-0599/40_0572_A.TIF
+001-0890a18	TKD 40-0572b	buddhist/K-koreana/40-tif/0500-0599/40_0572_B.TIF
+001-0890b09	TKD 40-0572c	buddhist/K-koreana/40-tif/0500-0599/40_0572_C.TIF
+001-0890a00	T 001-0890a	buddhist/T-taisho/T21/08/T21-0890.png
+001-0890b00	T 001-0890b	buddhist/T-taisho/T21/08/T21-0890.png
