@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:36:06.880227
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:36
 #+TITLE: 佛說施一切無畏陀羅尼經
 #+PROPERTY: CBETA_ID T21n1373
 #+PROPERTY: ID KR6j0604
