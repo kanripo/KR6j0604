@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:36:06.880227
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:36
 #+TITLE: 佛說施一切無畏陀羅尼經
 #+PROPERTY: CBETA_ID T21n1373
 #+PROPERTY: ID KR6j0604
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1373
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0604_T_000-0889c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0604_T_001-0889c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1373¶
-
- 佛說施一切無畏陀羅尼經¶
+No. 1373¶
+佛說施一切無畏陀羅尼經¶
 ¶
 西天譯經三藏朝奉大夫試光祿卿¶
 傳法大師賜紫臣施護等奉　詔譯¶
